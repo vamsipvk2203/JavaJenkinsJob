@@ -4,6 +4,6 @@ public class HelloWorld {
         for(int i=0; i<=10; i++) {
             System.out.println("Result : " + i);
         }
-        System.out.println("Resul Execution Completed!! ");
+        System.out.println("Result Execution Completed!! ");
     }
 }
