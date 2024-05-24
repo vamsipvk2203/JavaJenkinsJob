@@ -1,6 +1,6 @@
 public class HelloWorld {
     public static void main(String[] s) {
-        System.out.println("Hello Oracle Bangalore ");
+        System.out.println("Hello Oracle Bangalore, Ellarigu Namaskara!!! ");
         for(int i=0; i<=10; i++) {
             System.out.println("Result : " + i);
         }
